@@ -1,9 +1,9 @@
 ## 💫 About Me:
 ### 🚀 About Me: 
-Full Stack Software Engineer.<br><br>Specialty: AI Automation & Autonomous Agents.<br><br>Impact: Reduced manual workloads by 50% via AI.<br><br>Stack: JavaScript (Node/React) & Python (Django).<br><br>Focus: Scalable architecture and clean code.<br><br>
+Role: Full Stack Engineer.<br><br>Specialty: AI Automation & Autonomous Agents.<br><br>Impact: Reduced manual workloads by 50% via AI.<br><br>Stack: JavaScript (Node/React) & Python (Django).<br><br>Focus: Scalable architecture and clean code.<br><br>
 
 ### 🛠️ What I Do:
-Scalable web applications and REST APIs.<br><br>Automate: Creating AI bots to handle repetitive tasks.<br><br>Optimize: Boosting system performance and database speed.<br><br>Innovate: Developing AI-driven browser extensions.<br><br>Secure: Implementing end-to-end encryption for apps.
+Build: Scalable web applications and REST APIs.<br><br>Automate: Creating AI bots to handle repetitive tasks.<br><br>Optimize: Boosting system performance and database speed.<br><br>Innovate: Developing AI-driven browser extensions.<br><br>Secure: Implementing end-to-end encryption for apps.
 
 
 ## 🌐 Socials:
